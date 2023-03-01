@@ -1,13 +1,15 @@
 # SRP Website
 
+Created By Vava62600 and SRP Developpers
+
  Addons : 
 > HTML
- - Add Acceuil.html
- - Add Aide.html
- - Add a Propos.html
+ - Acceuil.html
+ - Aide.html
+ - a Propos.html
  > CSS
-  - Add Acceuil.css
- - Add Aide.css
- - Add a Propos.css
+ - Acceuil.css
+ - Aide.css
+ - a Propos.css
  
  MaJ tous les 15 Jours 
