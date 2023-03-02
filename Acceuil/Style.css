@@ -1,15 +1,17 @@
 #fonts
 {
-    color: rgb(91, 78, 160);
-    width: 500px;
+    color: rgb(255, 255, 255);
+    width: auto;
+    height: auto;
     border: 1px solid rgb(12, 12, 12);
   }
 
   h5 {
-    text-align: right;
+    text-align: left;
   }
   
   h1 {
     font-size: 16px;
     letter-spacing: 1px;
+    color: rgb(65, 121, 241);
   }
