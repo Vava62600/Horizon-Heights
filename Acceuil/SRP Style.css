@@ -245,6 +245,11 @@ body {
 #ibga{
   float:none;
 }
+#ijdx{
+  transition:box-shadow 2s ease-in-out;
+  perspective:16px;
+  transform:translateX(5px);
+}
 @media (max-width: 768px){
   .foot-form-cont{
     width:400px;
