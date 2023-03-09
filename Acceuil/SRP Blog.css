@@ -13,7 +13,7 @@ body {
   color:#ffffff;
   font-family:Helvetica, serif;
   font-weight:100;
-  background-image:url("https://grapesjs.com/img/bg-gr-v.png") , url("WTSRP.png");
+  background-image:url("https://grapesjs.com/img/bg-gr-v.png"), url("https://grapesjs.com/img/work-desk.jpg");
   background-attachment:scroll, scroll;
   background-position:left top, center center;
   background-repeat:repeat-y, no-repeat;
@@ -107,12 +107,12 @@ body {
 }
 .card-header{
   height:155px;
-  background-image:url("SRP_Article_1.png");
+  background-image:url("https://via.placeholder.com/350x250/78c5d6/fff");
   background-size:cover;
   background-position:center center;
 }
 .card-header.ch2{
-  background-image:url("SRP_Article_1.png");
+  background-image:url("https://via.placeholder.com/350x250/459ba8/fff");
 }
 .card-header.ch3{
   background-image:url("https://via.placeholder.com/350x250/79c267/fff");
@@ -242,13 +242,17 @@ body {
 .sub-btn:active{
   background-color:#573f5c;
 }
-#ibga{
-  float:none;
+#ifqul{
+  width:300px;
+  height:202px;
+  max-width:315px;
+  min-height:217px;
 }
-#ijdx{
-  transition:box-shadow 2s ease-in-out;
-  perspective:16px;
-  transform:translateX(5px);
+#i1l0p4{
+  font-size:13.6px;
+}
+#ixjw3{
+  font-size:12.8px;
 }
 @media (max-width: 768px){
   .foot-form-cont{
