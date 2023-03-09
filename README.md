@@ -9,7 +9,7 @@ ADD :
 - SRP Blog.css
 - SRP Blog.html
 - SRP_Article_1.png
-
+- WTSRP.png
 Modified :
 - SRP Home.htmll
 - SRP Style.css
