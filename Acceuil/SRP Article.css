@@ -7,18 +7,18 @@ body {
 .clearfix{
   clear:both;
 }
-.header-banner{
-  padding-top:35px;
-  padding-bottom:100px;
-  color:#ffffff;
-  font-family:Helvetica, serif;
-  font-weight:100;
-  background-image:url("https://grapesjs.com/img/bg-gr-v.png"), url("https://grapesjs.com/img/work-desk.jpg");
-  background-attachment:scroll, scroll;
-  background-position:left top, center center;
-  background-repeat:repeat-y, no-repeat;
-  background-size:contain, cover;
-}
+  .header-banner{
+    padding-top:35px;
+    padding-bottom:100px;
+    color:#ffffff;
+    font-family:Helvetica, serif;
+    font-weight:100;
+    background-image:url("bg-gr-v.png") , url("WTSRP.png");
+    background-attachment:scroll, scroll;
+    background-position:left top, center center;
+    background-repeat:repeat-y, no-repeat;
+    background-size:contain, cover;
+  }
 .container-width{
   width:90%;
   max-width:1150px;
@@ -29,7 +29,7 @@ body {
   width:50%;
 }
 .logo{
-  background-color:#fff;
+  background-color:#4d4c4c;
   border-radius:5px;
   width:130px;
   padding:10px;
@@ -46,7 +46,7 @@ body {
 .menu-item{
   float:right;
   font-size:15px;
-  color:#eee;
+  color:#5c5c5c3b;
   width:130px;
   padding:10px;
   min-height:50px;
@@ -225,12 +225,31 @@ body {
   font-family:"Brush Script MT", sans-serif;
   font-size:39px;
   font-weight:400;
-  background-color:rgb(255, 255, 255);
+  background-color:rgba(109, 106, 106, 0.164);
+}
+#style1{
+  font-size:19px;
+  color:rgb(0, 55, 80);
+  text-align:center;
+}
+#style2{
+  font-size:40px;
+  color:rgba(41, 40, 40);
+  text-align:center;
+}
+#style3{
+  font-size:15px;
+  color:212, 210, 210 ,rgba(94, 82, 82, 0.589) ;
+}
+#style4{
+  font-size:0px;
+  color:212, 210, 210 ,rgb(255, 255, 255) ;
 }
 @media (max-width: 768px){
   .foot-form-cont{
     width:400px;
   }
+
   .foot-form-title{
     width:autopx;
   }
