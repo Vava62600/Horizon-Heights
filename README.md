@@ -2,18 +2,21 @@
 
 Created By Vava62600 and SRP Developpers
 
-ADD :
+Addons :
 
-- SRP Article.css
-- SRP Article.html
-- SRP Blog.css
 - SRP Blog.html
+- SRP Blog.css
 - SRP_Article_1.png
 - WTSRP.png <br>
 
 Modified :
-- SRP Home.htmll
+- SRP Home.html
 - SRP Style.css
+- SRP Article.css
+- SRP Article1.html
+- SRP Download.html
+- .gitattributes
+
 
 Delete :
 
