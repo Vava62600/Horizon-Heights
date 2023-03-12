@@ -1,25 +1,23 @@
-# SRP Website V0.7
+# SRP Website V0.8
 
 Created By Vava62600 and SRP Developpers
 
-ADD :
+Addons :
 
-- SRP Article.css
-- SRP Article.html
-- SRP Blog.css
-- SRP Blog.html
-- SRP_Article_1.png
-- WTSRP.png <br>
+No Code add
 
 Modified :
-- SRP Home.htmll
+- SRP Home.html
 - SRP Style.css
+- SRP Article.css
+- SRP Article1.html
+- SRP Download.html
+- .gitattributes
+
 
 Delete :
 
-- Accueil.html
-- Aide.html
-- Style.css
+No code Deleted
 
 Co-Authored-By: @SRP-Devloppers <br>
 Co-Authored-By: @Vava62600
