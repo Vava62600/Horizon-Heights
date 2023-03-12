@@ -13,7 +13,7 @@ body {
   color:#ffffff;
   font-family:Helvetica, serif;
   font-weight:100;
-  background-image:url("https://grapesjs.com/img/bg-gr-v.png") , url("WTSRP.png");
+  background-image:url("bg-gr-v.png") , url("WTSRP.png");
   background-attachment:scroll, scroll;
   background-position:left top, center center;
   background-repeat:repeat-y, no-repeat;

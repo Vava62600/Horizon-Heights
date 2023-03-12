@@ -192,6 +192,7 @@ body {
   transition:box-shadow 2s ease-in-out;
   perspective:16px;
   transform:translateX(5px);
+  color :rgb(255, 255, 255)
 }
 #idv0j{
   padding:10px;
@@ -227,14 +228,26 @@ body {
   font-weight:400;
   background-color:rgba(109, 106, 106, 0.164);
 }
+#card1{
+  background-color: #ffffff;
+  width : 800px;
+  margin : 0 auto;
+}
+#card2{
+  background-color: #ffffff00;
+  width : 1px;
+  margin : 0 auto;
+
+}
 #style1{
   font-size:19px;
-  color:rgb(0, 55, 80);
-  text-align:center;
+  color:rgb(49, 49, 49);
+  text-align:left;
+  line-height: 1cm;
 }
 #style2{
-  font-size:40px;
-  color:rgba(41, 40, 40);
+  font: size 55px;
+  color:rgb(0, 0, 0);
   text-align:center;
 }
 #style3{
@@ -244,6 +257,17 @@ body {
 #style4{
   font-size:0px;
   color:212, 210, 210 ,rgb(255, 255, 255) ;
+}
+#info1{
+  font: size 30px;
+  color:rgb(0, 0, 0);
+  text-align:center;
+}
+#info2{
+  font: size 30px;
+  color:rgb(0, 0, 0);
+  text-align:left;
+
 }
 @media (max-width: 768px){
   .foot-form-cont{
