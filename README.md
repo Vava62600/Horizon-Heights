@@ -4,10 +4,7 @@ Created By Vava62600 and SRP Developpers
 
 Addons :
 
-- SRP Blog.html
-- SRP Blog.css
-- SRP_Article_1.png
-- WTSRP.png <br>
+No Code addons
 
 Modified :
 - SRP Home.html
@@ -20,9 +17,7 @@ Modified :
 
 Delete :
 
-- Accueil.html
-- Aide.html
-- Style.css
+No code Deleted
 
 Co-Authored-By: @SRP-Devloppers <br>
 Co-Authored-By: @Vava62600
