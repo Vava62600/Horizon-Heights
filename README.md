@@ -8,11 +8,10 @@ No Code add
 
 Modified :
 - SRP Home.html
-- SRP Style.css
 - SRP Article.css
 - SRP Article1.html
 - SRP Download.html
-- .gitattributes
+- README.md
 
 
 Delete :
