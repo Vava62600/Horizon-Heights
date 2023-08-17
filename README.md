@@ -1,7 +1,6 @@
 # SRP Website V0.8
 # Horizon Heights formerly (SRP Website)
 
-Created By Vava62600 and SRP Developpers
 Created By Vava62600 and Horizon Heights Developpers
 <br>
 <br>
