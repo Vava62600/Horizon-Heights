@@ -13,7 +13,7 @@ body {
   color:#ffffff;
   font-family:Helvetica, serif;
   font-weight:100;
-  background-image:url("bg-gr-v.png") , url("WTSRP.png");
+  background-image:url("bg-gr-v.png") , url("Ban.png");
   background-attachment:scroll, scroll;
   background-position:left top, center center;
   background-repeat:repeat-y, no-repeat;
@@ -107,12 +107,12 @@ body {
 }
 .card-header{
   height:155px;
-  background-image:url("SRP_Article_1.png");
+  background-image:url("");
   background-size:cover;
   background-position:center center;
 }
 .card-header.ch2{
-  background-image:url("SRP_Article_1.png");
+  background-image:url("");
 }
 .card-header.ch3{
   background-image:url("https://via.placeholder.com/350x250/79c267/fff");
