@@ -1,0 +1,262 @@
+/* Formulaire de connexion */
+
+.form-login {
+    margin: 0 auto;
+    max-width: 400px;
+    padding: 40px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .form-login h2 {
+    margin-top: 0;
+    font-weight: normal;
+  }
+  
+  .form-login label {
+    display: block;
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  
+  .form-login input[type="email"],
+  .form-login input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .form-login button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .form-login button:hover {
+    background-color: #45a049;
+  }
+  
+  .form-login .error-message {
+    color: red;
+    font-size: 14px;
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  /* Formulaire d'inscription */
+  
+  .form-register {
+    margin: 0 auto;
+    max-width: 400px;
+    padding: 40px;
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+    text-align: center;
+  }
+  
+  .form-register h2 {
+    margin-top: 0;
+    font-weight: normal;
+  }
+  
+  .form-register label {
+    display: block;
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  
+  .form-register input[type="text"],
+  .form-register input[type="email"],
+  .form-register input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    text-align: center;
+    align-items: center;
+
+  }
+  
+  .form-register button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .form-register button:hover {
+    background-color: #45a049;
+  }
+  
+  .form-register .error-message {
+    color: red;
+    font-size: 14px;
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  .form-login{
+
+    Color: #005f9e;
+    accent-color: #519aca;
+    font-size: 14px;
+
+  }
+
+  .container{
+
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    position: center;
+  }
+
+  .h1 {
+
+    font-size: 30px;
+    color: #ffffff;
+    accent-color: #777777;
+    margin: top;
+    text-align: center;
+
+  }
+
+  .p{
+
+    font-size: 14px;
+    color: #d4d4d4;
+    accent-color: #383838;
+    margin: top;
+    text-align: center;
+
+  }
+
+  .register{
+
+    text-align: center;
+    margin-top: 20px;
+    width: none;
+    height: none;
+
+  }
+
+.button-signin {
+color: #010d7c;
+min-height: 5%;
+max-height: 50%;
+background-color: #24f1e7;
+border-radius: 5px;
+border: none;
+font-size: 14px;
+text-align: center;
+margin: auto;
+margin-bottom: 20px;
+margin-top: 20px;
+padding: 10px;
+text-decoration: #1e8488fb;
+text-transform: capitalize;
+
+};
+
+
+.form-button {
+
+  color: #010d7c;
+  min-height: 5%;
+  max-height: 50%;
+  background-color: #24f1e7;
+  border-radius: 5px;
+  border: none;
+  font-size: 14px;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding: 10px;
+  text-decoration: #1e8488fb;
+  text-transform: capitalize;
+
+}
+
+.text {
+
+  color: #797979;
+  min-height: 5%;
+  max-height: 50%;
+  background-color: #000000;
+  border-radius: 100px;
+  border: none;
+  font-size: 14px;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding: 10px;
+  text-decoration: #747474fb;
+  text-transform: capitalize;
+
+}
+
+.form-inf 
+.form-placeholder {
+
+  width: 50px;  
+  height: 60px;
+  background-color: #fff;
+  color: #fff;
+  border-radius: 20px;
+  text-align: center;
+  align-items: center;
+  border-radius: 5px;
+
+  
+}
+
+.background-image {
+
+  background-color:#43ffc6d0;
+  background-size: cover;  
+
+}
+
+.align-input {
+
+  align-content: center;
+  border-width: 5px;
+  border-top: 5px;
+  padding: 5px;
+  border: 5px ;
+  display: inline-block ;
+  text-align: center;
+
+}
+
+.button-signin {
+
+  color: #017c7c;
+  min-height: 5%;
+  max-height: 50%;
+  background-color: #24f1e7;
+  border-radius: 50px;
+  border: none;
+  font-size: 14px;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding: 10px;
+  text-decoration: #1e8488fb;
+  text-transform: capitalize;
+
+}
