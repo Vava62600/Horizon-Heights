@@ -19,7 +19,7 @@ $result = mysqli_query($conn, $sql);
 if (mysqli_num_rows($result) == 1) {
     header("Location: home.html");
 } else {
-    echo "Nous avons l'impression que Vos données sont incorect. ";
+    echo "Nous avons l'impression que vos données sont incorect. ";
 }
 
 // Fermer la connexion à la base de données

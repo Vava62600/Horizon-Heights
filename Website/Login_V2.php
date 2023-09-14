@@ -7,7 +7,7 @@ $db_name = 'contacts';
 $conn = mysqli_connect($db_host, $db_user, $db_pass, $db_name);
 
 if (!$conn) {
-  die('Une erreur s est produite , veuillez réesayer plus tard !') : ' . mysqli_connect_error());
+  die('Une erreur s est produite , veuillez réesayer plus tard !') ' . mysqli_connect_error());
 }
 
 $name = $_POST['name'];
