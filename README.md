@@ -1,10 +1,6 @@
 <styles>
-.div-back {
-    border-radius: 10px;
-    background-color: rgba(0, 0, 0, 0.7);
-    width: 100px;
-    height: 100px;
-    margin: 5px;
+div-back {
+
   }
 </styles>
 # Horizon Heights formerly (SRP Website)
@@ -15,8 +11,14 @@ Created By Vava62600 and Horizon Heights Developpers
 <h3>⚠This project will change code because it was stopped so I wanted to resume it with 4 friends (if you want to collaborate for this project my discord username: vava62600) and my discord server :https://discord.gg/NmuZ5sh8hR ⚠</h3>
 <h4>PS: the code has a license "the unlicence" you can see it with this: https://github.com/Vava62600/Horizon-Heights/blob/main/LICENSE.md </h4>
 Addons :
+No Code add
+<div styles="    
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 100px;
+    height: 100px;
+    margin: 5px;"> 
 
-<div class='div-back'> No Code add
 - 1.png
 - 2.png
 - bg-gr-v.png
