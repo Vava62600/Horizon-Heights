@@ -1,4 +1,12 @@
-
+<styles>
+.div-back {
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+  }
+</styles>
 # Horizon Heights formerly (SRP Website)
 
 Created By Vava62600 and Horizon Heights Developpers
@@ -8,7 +16,7 @@ Created By Vava62600 and Horizon Heights Developpers
 <h4>PS: the code has a license "the unlicence" you can see it with this: https://github.com/Vava62600/Horizon-Heights/blob/main/LICENSE.md </h4>
 Addons :
 
-No Code add
+<div class='div-back'> No Code add
 - 1.png
 - 2.png
 - bg-gr-v.png
@@ -26,16 +34,16 @@ No Code add
 - interaction.js
 - script.js
 - Usr.sql
-
+</div>
+<div class='div-back'>
 Modified :
-- SRP Home.html
-- SRP Article.css
-- SRP Article1.html
-- SRP Download.html
+- 
+- 
+- 
+- 
 - README.md
-
-Readme.md
-
+</div>
+<div class='div-back'>
 Delete :
 
 No code Deleted
@@ -43,6 +51,6 @@ No code Deleted
 - SRP Article.css
 - SRP Article1.html
 - SRP Download.html
-
-Co-Authored-By: @SRP-Devloppers <br>
+</div>
+Co-Authored-By: @Horizons-Heights-Dev <br>
 Co-Authored-By: @Vava62600
